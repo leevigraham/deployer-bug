@@ -1,0 +1,12 @@
+{
+    "name": "leevigraham/deployer-bug",
+    "require": {
+        "deployer/deployer": "^7.0-dev"
+    },
+    "authors": [
+        {
+            "name": "Leevi Graham",
+            "email": "leevi@newism.com.au"
+        }
+    ]
+}
